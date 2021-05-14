@@ -1,3 +1,4 @@
+#inputs a csv file into a mysql database
 import os
 import sys
 import pandas as pd
