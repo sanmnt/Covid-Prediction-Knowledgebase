@@ -1,3 +1,4 @@
+#branched from https://github.com/joshgarde/LastMinute
 from flask import Flask, request
 from flask_cors import CORS, cross_origin
 from keras.models import Sequential, load_model
